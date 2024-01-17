@@ -1,0 +1,13 @@
+baseURL = "https://favourokeibunor.com/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 10
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[services]
+[services.disqus]
+shortname = 'disqus_cead9xjh0J'
