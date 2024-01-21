@@ -3,34 +3,34 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Favour Okeibunor"
+copyright = "Copyright @ 2024"
 
 [params]
-  dateFormat = "2 January 2006"
+dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+# mainSections = ["section1", "section2"]
+description = "Favour Okeibunor's portfolio website"
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+name = "Favour Okeibunor"
+image = "img/profile.jpeg"
+headline = "I'm indefatigable when I solve problems."
+bio = "Software Engineer & Writer"
+links = [
+  { email = "mailto:favourokeibunor@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
-  #   { dev = "https://dev.to/username" },
+  { dev = "https://dev.to/favourokeibunor" },
   #   { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
-  #   { facebook = "https://facebook.com/username" },
+  # { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+  { github = "https://github.com/okeibunor" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -38,7 +38,7 @@ title = "Congo"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+  { linkedin = "https://linkedin.com/in/favour-okeibunor" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
@@ -56,7 +56,7 @@ title = "Congo"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { whatsapp = "https://wa.me/phone-number" },
+  { whatsapp = "https://wa.me/+2349097691788" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+]
