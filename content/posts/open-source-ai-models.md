@@ -1,6 +1,6 @@
 +++
-title = 'Open-Source Alternatives to OpenAI GPT-3 with LangChain'
-date = 2024-07-21T17:57:07+01:00
+title = Open-Source Alternatives to OpenAI GPT-3 with LangChain'
+date = 2024-01-17T17:57:07+01:00
 draft = false
 +++
 
@@ -55,8 +55,6 @@ pip install langchain transformers
 ### Step 2: Load the Model and Tokenizer
 
 Next, you'll load the GPT-J model and tokenizer from Hugging Face. Then, you'll initialize a LangChain conversation with the loaded model.
-
-#### Jupyter Notebook Code
 
 ```python
 # Import necessary libraries
