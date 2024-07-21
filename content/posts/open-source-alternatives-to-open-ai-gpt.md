@@ -91,9 +91,3 @@ By leveraging open-source LLMs like GPT-J with LangChain, you can build powerful
 Whether you're looking to save costs, require more customization, or prefer open-source tools, integrating models like GPT-J with LangChain is a viable and effective solution.
 
 Feel free to experiment with other models from Hugging Face or explore additional features of LangChain to enhance your AI applications further.
-
----
-
-## References
-
-[LangChain GitHub](https://github.com/hwchase17/langchain) | [Hugging Face](https://huggingface.co/) | [EleutherAI](https://www.eleuther.ai/)
