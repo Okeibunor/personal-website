@@ -15,8 +15,8 @@ description = "Favour Okeibunor's portfolio website"
 [author]
 name = "Favour Okeibunor"
 image = "img/profile.jpeg"
-headline = "I'm indefatigable when I solve problems."
-bio = "Software Engineer & Writer"
+headline = "I think therefore I am"
+bio = "Software Developer"
 links = [
   { email = "mailto:favourokeibunor@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
