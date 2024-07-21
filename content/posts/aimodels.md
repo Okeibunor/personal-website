@@ -1,5 +1,5 @@
 +++
-title = 'Open Source alternatives to OpenAI GPT and Building with Langchain"
+title = 'Understanding Idempotency: Leveraging Redis Keys for Race Condition Mitigation"
 date = 2024-01-17T17:57:07+01:00
 draft = false
 +++
