@@ -4,6 +4,8 @@ date = 2024-07-21T17:57:07+01:00
 draft = false
 +++
 
+## Introduction
+
 LangChain is a powerful tool for building conversational AI systems, and while OpenAI's GPT-3 is widely used, there are excellent open-source alternatives available. These alternatives can provide more control, flexibility, and cost-effectiveness. In this post, we'll explore some of the best open-source large language models (LLMs) and demonstrate how to integrate one with LangChain using Jupyter Notebooks.
 
 ## Popular Open-Source LLMs
@@ -50,8 +52,6 @@ First, ensure you have the required libraries installed. You can do this using p
 pip install langchain transformers
 ```
 
-````
-
 ### Step 2: Load the Model and Tokenizer
 
 Next, you'll load the GPT-J model and tokenizer from Hugging Face. Then, you'll initialize a LangChain conversation with the loaded model.
@@ -97,4 +97,3 @@ Feel free to experiment with other models from Hugging Face or explore additiona
 ## References
 
 [LangChain GitHub](https://github.com/hwchase17/langchain) | [Hugging Face](https://huggingface.co/) | [EleutherAI](https://www.eleuther.ai/)
-````
