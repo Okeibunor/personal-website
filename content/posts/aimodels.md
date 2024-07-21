@@ -1,6 +1,6 @@
 +++
-title = 'Understanding AI: Leveraging Open source models'
-date = 2024-01-17T17:57:07+01:00
+title = 'Building with Langchain: Leveraging Open source AI models'
+date = 2024-07-20T17:57:07+01:00
 draft = false
 +++
 
