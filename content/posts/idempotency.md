@@ -1,6 +1,6 @@
 +++
 title = 'Understanding Idempotency: Leveraging Redis Keys for Race Condition Mitigation'
-date = 2024-01-17T17:57:07+01:00
+date = 2024-07-21T12:57:07+01:00
 draft = false
 +++
 
@@ -43,7 +43,10 @@ function processRequest(requestId: string): Promise<string> {
           redisClient.set(`request:${requestId}`, "processed", (setError) => {
             if (setError) {
               // Handle set error
-              console.error("Error marking request as processed:", setError.message);
+              console.error(
+                "Error marking request as processed:",
+                setError.message
+              );
               reject("Error processing request");
             } else {
               resolve("Request processed successfully");
