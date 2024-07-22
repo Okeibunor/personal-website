@@ -14,7 +14,7 @@ Now, I haven't really been particular about certifications but very recently, I 
 
 ## Learning Java
 
-One technology I've always been interesting in is Java. It was the first programming language I particularly interacted with when I picked up programming.
+One technology I've always been interested in is Java. It was the first programming language I particularly interacted with when I picked up programming.
 
 I was learning Android development then and Java was still the primary go-to language for Android development. That was before Google made it's pivot to Kotlin.
 
