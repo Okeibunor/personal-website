@@ -13,3 +13,7 @@ I don't talk much so I pen my thoughts here.
 ### 24th July
 
 Are you even intelligent if you can't get what you want out of life?
+
+---
+
+Waytin I dey use my life take dey do? More!
